@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "WDAudioMuteSwitchManager.h"
 
 FOUNDATION_EXPORT double WDAudioMuteSwitchVersionNumber;
 FOUNDATION_EXPORT const unsigned char WDAudioMuteSwitchVersionString[];

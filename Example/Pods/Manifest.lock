@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  WDAudioMuteSwitch: 6993ce5d733cd1dbbef44a94e54c03c6d8add1ba
+  WDAudioMuteSwitch: fc84381b5ffedd03ea020b0863367dd98dbcf039
 
 PODFILE CHECKSUM: 8bdfb5cebc915070c9d75db7c32b4edd9c23a2f2
 

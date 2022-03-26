@@ -37,11 +37,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		072F394505BFBACFB496748B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		072F394505BFBACFB496748B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		2B91E4100E76B9DFC1D63525 /* Pods-WDAudioMuteSwitch_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WDAudioMuteSwitch_Example.debug.xcconfig"; path = "Target Support Files/Pods-WDAudioMuteSwitch_Example/Pods-WDAudioMuteSwitch_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		2F319FD559D6817FD4890FA7 /* Pods-WDAudioMuteSwitch_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WDAudioMuteSwitch_Tests.debug.xcconfig"; path = "Target Support Files/Pods-WDAudioMuteSwitch_Tests/Pods-WDAudioMuteSwitch_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		396D99AD87D6EF5F41B5CE07 /* Pods_WDAudioMuteSwitch_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WDAudioMuteSwitch_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		443F626F1E328752E9FC94A3 /* WDAudioMuteSwitch.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = WDAudioMuteSwitch.podspec; path = ../WDAudioMuteSwitch.podspec; sourceTree = "<group>"; };
+		443F626F1E328752E9FC94A3 /* WDAudioMuteSwitch.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = WDAudioMuteSwitch.podspec; path = ../WDAudioMuteSwitch.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6003F58A195388D20070C39A /* WDAudioMuteSwitch_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WDAudioMuteSwitch_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -62,8 +62,11 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7671646B27EF1C2100EB7407 /* WDAudioMuteSwitchManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = WDAudioMuteSwitchManager.m; path = ../WDAudioMuteSwitch/Classes/WDAudioMuteSwitchManager.m; sourceTree = "<group>"; };
+		7671646C27EF1C2100EB7407 /* WDAudioMuteSwitchManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = WDAudioMuteSwitchManager.h; path = ../WDAudioMuteSwitch/Classes/WDAudioMuteSwitchManager.h; sourceTree = "<group>"; };
+		7671646D27EF1C2D00EB7407 /* detection.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; name = detection.aiff; path = ../WDAudioMuteSwitch/Assets/detection.aiff; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		96A19D19C3E59B9C20DCC315 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		96A19D19C3E59B9C20DCC315 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		A04BDD0261077A4EF3CDDBED /* Pods-WDAudioMuteSwitch_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WDAudioMuteSwitch_Tests.release.xcconfig"; path = "Target Support Files/Pods-WDAudioMuteSwitch_Tests/Pods-WDAudioMuteSwitch_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		C95B861763C0A1CB6700C01A /* Pods_WDAudioMuteSwitch_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WDAudioMuteSwitch_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFE64875AD3C7BB4F1AB6D15 /* Pods-WDAudioMuteSwitch_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WDAudioMuteSwitch_Example.release.xcconfig"; path = "Target Support Files/Pods-WDAudioMuteSwitch_Example/Pods-WDAudioMuteSwitch_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -103,7 +106,6 @@
 				2F319FD559D6817FD4890FA7 /* Pods-WDAudioMuteSwitch_Tests.debug.xcconfig */,
 				A04BDD0261077A4EF3CDDBED /* Pods-WDAudioMuteSwitch_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -191,6 +193,9 @@
 			isa = PBXGroup;
 			children = (
 				443F626F1E328752E9FC94A3 /* WDAudioMuteSwitch.podspec */,
+				7671646C27EF1C2100EB7407 /* WDAudioMuteSwitchManager.h */,
+				7671646B27EF1C2100EB7407 /* WDAudioMuteSwitchManager.m */,
+				7671646D27EF1C2D00EB7407 /* detection.aiff */,
 				072F394505BFBACFB496748B /* README.md */,
 				96A19D19C3E59B9C20DCC315 /* LICENSE */,
 			);
@@ -259,6 +264,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
