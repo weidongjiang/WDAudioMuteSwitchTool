@@ -1,0 +1,6 @@
+framework module WDAudioMuteSwitch {
+  umbrella header "WDAudioMuteSwitch-umbrella.h"
+
+  export *
+  module * { export * }
+}

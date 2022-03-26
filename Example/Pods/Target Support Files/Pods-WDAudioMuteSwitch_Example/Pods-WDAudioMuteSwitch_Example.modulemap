@@ -1,0 +1,6 @@
+framework module Pods_WDAudioMuteSwitch_Example {
+  umbrella header "Pods-WDAudioMuteSwitch_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

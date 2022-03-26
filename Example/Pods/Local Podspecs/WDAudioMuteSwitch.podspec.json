@@ -1,0 +1,22 @@
+{
+  "name": "WDAudioMuteSwitch",
+  "version": "0.1.0",
+  "summary": "A short description of WDAudioMuteSwitch.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/weidongjiang/WDAudioMuteSwitch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "weidongjiang": "275201991@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/weidongjiang/WDAudioMuteSwitch.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WDAudioMuteSwitch/Classes/**/*"
+}
